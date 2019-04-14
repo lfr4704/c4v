@@ -143,7 +143,7 @@ df2.head(30)
 lst = df2.columns.tolist()
 lst
 
-cols = ['username', 'tweet_url','tweet_text', 'nouns']
+cols = ['username', 'nouns']
 df3 = df2[cols].reset_index()
 
 df3.head(1)
