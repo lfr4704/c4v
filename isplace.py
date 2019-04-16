@@ -21,7 +21,7 @@ class Location(object):
     return place_list[0][u'geometry'][u'location']
 
   def __query(self, candidate):
-    API_KEY = 'AIzaSyANRCfCQECUBEFYGOgPhgGNj7EsXXqc6jM'
+    API_KEY = ''
     URL = 'https://maps.googleapis.com/maps/api/place/findplacefromtext/json?inputtype=textquery&fields=geometry'
     params = '&input={q}'.format(q=urllib.quote(candidate.encode('utf-8')))
     query = '{url}{params}&key={key}'.format(url=URL, params=params, key=API_KEY)
