@@ -1,7 +1,8 @@
 ## To run the front-end in mac for map visualization
 to run `python -m SimpleHTTPServer 8080`  
-open web browser to localhost:8080
+open web browser to localhost:8080  
 to end control^c
+
 
 
 ### References for visualization
@@ -24,8 +25,6 @@ https://github.com/chrisalbon/twitter_miner
 https://jsoneditoronline.org/
 https://stackoverflow.com/questions/35983078/leaflet-swap-the-coordinates-when-use-geojson
 
-
-# Background
 # Using Twitter Data to Help Public Health
 
 ## Challenge
