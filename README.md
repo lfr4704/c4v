@@ -1,13 +1,12 @@
-# c4v
 ## how to run the front-end in mac for map visualization
-### to run `python -m SimpleHTTPServer 8080`
-### open web browser to localhost:8080
-### to end control^c
+to run `python -m SimpleHTTPServer 8080`
+open web browser to localhost:8080
+to end control^c
 
 # Background
 # Using Twitter Data to Help Public Health
 
-## TL;DR
+## Challenge
 
 The ultimate goal of this challenge is to create predictive models using Twitter data to:
 1. Detect epidemic outbreaks.
