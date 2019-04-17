@@ -1,7 +1,8 @@
 ## To run the front-end in mac for map visualization
-to run `python -m SimpleHTTPServer 8080`
+to run `python -m SimpleHTTPServer 8080`  
 open web browser to localhost:8080
 to end control^c
+
 
 ### References for visualization
 https://marcobonzanini.com/2015/06/16/mining-twitter-data-with-python-and-js-part-7-geolocation-and-interactive-maps/
