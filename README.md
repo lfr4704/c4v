@@ -1,7 +1,28 @@
-## how to run the front-end in mac for map visualization
+## To run the front-end in mac for map visualization
 to run `python -m SimpleHTTPServer 8080`
 open web browser to localhost:8080
 to end control^c
+
+### References for visualization
+https://marcobonzanini.com/2015/06/16/mining-twitter-data-with-python-and-js-part-7-geolocation-and-interactive-maps/
+https://leafletjs.com/examples/geojson/
+https://leafletjs.com/reference-1.4.0.html#geojson-coordstolatlng
+https://chrisalbon.com/python/other/mine_a_twitter_hashtags_and_words/
+https://blog.prototypr.io/interactive-maps-with-python-part-1-aa1563dbe5a9
+
+### References for twitter API
+https://developer.twitter.com/en/docs/tweets/enrichments/overview
+
+### References for Tweepy
+https://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
+
+### Reference for examples
+https://github.com/chrisalbon/twitter_miner
+
+### Other references
+https://jsoneditoronline.org/
+https://stackoverflow.com/questions/35983078/leaflet-swap-the-coordinates-when-use-geojson
+
 
 # Background
 # Using Twitter Data to Help Public Health
